@@ -1,0 +1,25 @@
+.issue-container {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  display: flex;
+  margin: 0px;
+  padding: 5px;
+}
+
+.issue-container p {
+  margin: 5px;
+}
+
+.issue-heading {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.issue-footer {
+  font-size: 14px;
+  color: #666;
+}
+
+.text-grey {
+  color: silver;
+}
